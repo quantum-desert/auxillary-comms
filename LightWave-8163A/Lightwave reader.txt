@@ -1,0 +1,4 @@
+1. Connect to lightwave
+2. Set continuous read mode
+3. Start continuous read and live plot
+4. Live calculate statistics over circular queue window
